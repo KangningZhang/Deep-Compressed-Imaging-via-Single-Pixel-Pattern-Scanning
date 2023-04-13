@@ -5,3 +5,7 @@
 
 
 # Long-line-shaped Pattern Scanning
+
+
+#### Reference: 1. Kangning Zhang, Junjie Hu, and Weijian Yang, "Deep compressed imaging via optimized pattern scanning," Photon. Res. 9, B57-B70 (2021)
+#### 2. K. Zhang, J. Hu, and W. Yang, "End-to-End Optimized High-Speed Single-Pixel Imaging via Pattern Scanning," in Conference on Lasers and Electro-Optics, J. Kang, S. Tomasulo, I. Ilev, D. Müller, N. Litchinitser, S. Polyakov, V. Podolskiy, J. Nunn, C. Dorrer, T. Fortier, Q. Gan, and C. Saraceno, eds., OSA Technical Digest (Optica Publishing Group, 2021), paper JW1A.83.
