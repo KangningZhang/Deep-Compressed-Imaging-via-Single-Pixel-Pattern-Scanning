@@ -5,7 +5,7 @@
 
 
 # Long-line-shaped Pattern Scanning
-
+![](https://github.com/KangningZhang/Deep-Compressed-Imaging-via-Single-Pixel-Pattern-Scanning/blob/main/Figures/Long-line-shaped%20Scanning.gif)
 
 #### Reference: 
 #### 1. Kangning Zhang, Junjie Hu, and Weijian Yang, "Deep compressed imaging via optimized pattern scanning," Photon. Res. 9, B57-B70 (2021)
