@@ -7,5 +7,9 @@
 # Long-line-shaped Pattern Scanning
 
 
-#### Reference: 1. Kangning Zhang, Junjie Hu, and Weijian Yang, "Deep compressed imaging via optimized pattern scanning," Photon. Res. 9, B57-B70 (2021)
-#### 2. K. Zhang, J. Hu, and W. Yang, "End-to-End Optimized High-Speed Single-Pixel Imaging via Pattern Scanning," in Conference on Lasers and Electro-Optics, J. Kang, S. Tomasulo, I. Ilev, D. Müller, N. Litchinitser, S. Polyakov, V. Podolskiy, J. Nunn, C. Dorrer, T. Fortier, Q. Gan, and C. Saraceno, eds., OSA Technical Digest (Optica Publishing Group, 2021), paper JW1A.83.
+#### Reference: 
+#### 1. Kangning Zhang, Junjie Hu, and Weijian Yang, "Deep compressed imaging via optimized pattern scanning," Photon. Res. 9, B57-B70 (2021)
+#### 2. Zhang, Kangning, J. Zhu, W. Yang, “End-to-end optimized adversarial deep compressed super-resolution imaging via pattern scanning,” OSA Imaging and Applied Optics Congress 2021, paper M2E.6.
+#### 3. Zhang, Kangning, Junjie Hu, and Weijian Yang. "End-to-End Optimized High-Speed Single-Pixel Imaging via Pattern Scanning." In CLEO: QELS_Fundamental Science, pp. JW1A-83. Optical Society of America, 2021.
+#### 4. Zhang, Kangning, Junjie Hu, and Weijian Yang. "Learnable-pattern scanning based deep compressed imaging." In High-Speed Biomedical Imaging and Spectroscopy VI, vol. 11654, p. 1165413. International Society for Optics and Photonics, 2021.
+#### 5. Zhang, Kangning, Junjie Hu, and Weijian Yang. "Compressed Sensing Imaging via Beam Scanning." In 2020 Conference on Lasers and Electro-Optics (CLEO), pp. 1-2. IEEE, 2020.
